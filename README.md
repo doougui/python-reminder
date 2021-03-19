@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contributing
 
-1. Fork it (https://github.com/doougui/connection-tester/fork)
+1. Fork it (https://github.com/doougui/python-reminder/fork)
 2. Clone repository (```git clone https://github.com/doougui/python-reminder```)
 3. Create your feature branch (```git checkout -b your_feature_name```)
 4. Commit your changes (```git commit -am 'Add some changes'```)
