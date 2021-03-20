@@ -20,7 +20,7 @@ pip install -r requirements.txt
 To run the script on background you can type the following command inside the root folder of the script:
 
 ```
-python3 /path/to/file/reminder.py &
+nohup python3 /path/to/file/reminder.py &
 ```
 
 ### Run on startup (on Linux)
@@ -28,7 +28,7 @@ python3 /path/to/file/reminder.py &
 To run the script on startup (so that you don't have to run it every time you turn your computer on), you can type the same command that I showed you above inside your `/etc/rc.local` file:
 
 ```
-python3 /path/to/file/reminder.py &
+nohup python3 /path/to/file/reminder.py &
 ```
 
 **It's done :)**
